@@ -1,4 +1,5 @@
 About
+
 This is a basic python code to retrieve data behind trajectories plotted on the Google Books Ngram Viewer: books.google.com/ngrams.
 
 Just type exactly the same string you would have type on books.google.com/ngrams, and retrieve the data in tsv format. By default, data is printed on screen and saved to file in the current directory.
